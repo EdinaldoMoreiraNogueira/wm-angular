@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 15px;
+    margin-right: 20px;
+  }
+  
+  mat-card-title {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(8, 56, 56);
+  }
